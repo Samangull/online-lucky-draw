@@ -1,0 +1,4 @@
+<p><strong>Event Date:</strong>
+<?= date <"D M Y h: A", strtotime($event['date_and_time'])) ?> 
+<p>
+          </div>
